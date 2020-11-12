@@ -1,3 +1,2 @@
 This is for testing whether same PR is open for each commit of a same branch
 adding the first line to check if the previously issued PR was changed
-adding the second line to check if the previously merged PR was changed
